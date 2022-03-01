@@ -1,0 +1,152 @@
+[
+  {
+    "nombre": "Cesar",
+    "apellidoPaterno": "Gonzalez",
+    "apellidoMaterno": "Gonzalez",
+    "edad": 23,
+    "telefono": 55555555,
+    "direccion": "Calle Falsa 123",
+    "correo": "cesar.gonzalez@correo.com",
+    "estadoCivil": "Soltero"
+  },
+  {
+    "nombre": "Is",
+    "apellidoPaterno": "Perez",
+    "apellidoMaterno": "Perez",
+    "edad": 23,
+    "telefono": 55555555,
+    "direccion": "Calle Falsa 123",
+    "correo": "cesar.gonzalez@correo.com",
+    "estadoCivil": "Soltero"
+  },
+  {
+    "nombre": "Victor",
+    "apellidoPaterno": "Perez",
+    "apellidoMaterno": "Perez",
+    "edad": 23,
+    "telefono": 55555555,
+    "direccion": "Calle Falsa 123",
+    "correo": "cesar.gonzalez@correo.com",
+    "estadoCivil": "Soltero"
+  },
+  {
+    "nombre": "Joshua",
+    "apellidoPaterno": "Perez",
+    "apellidoMaterno": "Perez",
+    "edad": 23,
+    "telefono": 55555555,
+    "direccion": "Calle Falsa 123",
+    "correo": "cesar.gonzalez@correo.com",
+    "estadoCivil": "Soltero"
+  },
+  {
+    "nombre": "Franco",
+    "apellidoPaterno": "Perez",
+    "apellidoMaterno": "Perez",
+    "edad": 23,
+    "telefono": 55555555,
+    "direccion": "Calle Falsa 123",
+    "correo": "cesar.gonzalez@correo.com",
+    "estadoCivil": "Soltero"
+  },
+  {
+    "nombre": "Francisco",
+    "apellidoPaterno": "Perez",
+    "apellidoMaterno": "Perez",
+    "edad": 23,
+    "telefono": 55555555,
+    "direccion": "Calle Falsa 123",
+    "correo": "cesar.gonzalez@correo.com",
+    "estadoCivil": "Soltero"
+  },
+  {
+    "nombre": "Enrique",
+    "apellidoPaterno": "Perez",
+    "apellidoMaterno": "Perez",
+    "edad": 23,
+    "telefono": 55555555,
+    "direccion": "Calle Falsa 123",
+    "correo": "cesar.gonzalez@correo.com",
+    "estadoCivil": "Soltero"
+  },
+  {
+    "nombre": "Castaña",
+    "apellidoPaterno": "Perez",
+    "apellidoMaterno": "Perez",
+    "edad": 23,
+    "telefono": 55555555,
+    "direccion": "Calle Falsa 123",
+    "correo": "cesar.gonzalez@correo.com",
+    "estadoCivil": "Soltero"
+  },
+  {
+    "nombre": "Max",
+    "apellidoPaterno": "Perez",
+    "apellidoMaterno": "Perez",
+    "edad": 23,
+    "telefono": 55555555,
+    "direccion": "Calle Falsa 123",
+    "correo": "cesar.gonzalez@correo.com",
+    "estadoCivil": "Soltero"
+  },
+  {
+    "nombre": "Jean",
+    "apellidoPaterno": "Perez",
+    "apellidoMaterno": "Perez",
+    "edad": 23,
+    "telefono": 55555555,
+    "direccion": "Calle Falsa 123",
+    "correo": "cesar.gonzalez@correo.com",
+    "estadoCivil": "Soltero"
+  },
+  {
+    "nombre": "Jeyker",
+    "apellidoPaterno": "Perez",
+    "apellidoMaterno": "Perez",
+    "edad": 23,
+    "telefono": 55555555,
+    "direccion": "Calle Falsa 123",
+    "correo": "cesar.gonzalez@correo.com",
+    "estadoCivil": "Soltero"
+  },
+  {
+    "nombre": "Kader",
+    "apellidoPaterno": "Perez",
+    "apellidoMaterno": "Perez",
+    "edad": 23,
+    "telefono": 55555555,
+    "direccion": "Calle Falsa 123",
+    "correo": "cesar.gonzalez@correo.com",
+    "estadoCivil": "Soltero"
+  },
+  {
+    "nombre": "Milagros",
+    "apellidoPaterno": "Perez",
+    "apellidoMaterno": "Perez",
+    "edad": 23,
+    "telefono": 55555555,
+    "direccion": "Calle Falsa 123",
+    "correo": "cesar.gonzalez@correo.com",
+    "estadoCivil": "Soltero"
+  },
+  {
+    "nombre": "Matias",
+    "apellidoPaterno": "Perez",
+    "apellidoMaterno": "Perez",
+    "edad": 23,
+    "telefono": 55555555,
+    "direccion": "Calle Falsa 123",
+    "correo": "cesar.gonzalez@correo.com",
+    "estadoCivil": "Soltero"
+  },
+  {
+    "nombre": "Carolina",
+    "apellidoPaterno": "Perez",
+    "apellidoMaterno": "Perez",
+    "edad": 23,
+    "telefono": 55555555,
+    "direccion": "Calle Falsa 123",
+    "correo": "cesar.gonzalez@correo.com",
+    "estadoCivil": "Soltero"
+  }
+]

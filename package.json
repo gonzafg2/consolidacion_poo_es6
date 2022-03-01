@@ -1,0 +1,16 @@
+{
+  "name": "consolidacion_poo_es6",
+  "version": "1.0.0",
+  "description": "Esto es un repaso de lo visto en clases",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "scss": "sass --watch src/scss/main.scss:src/css/style.css"
+  },
+  "keywords": [],
+  "author": "Gonzalo Fleming",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}
