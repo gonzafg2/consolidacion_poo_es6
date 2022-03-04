@@ -19,7 +19,7 @@ const getTrabajadoresEntel2022 = (async () => {
 
 const trabajaresEntel = (async () => {
   const dataTrabajadores = await getTrabajadoresEntel2022;
-
+  console.log(dataTrabajadores);
   dataTrabajadores?.forEach((trabajador) => {
     const trabajadorEntel = new Trabajador(
       trabajador.nombre,

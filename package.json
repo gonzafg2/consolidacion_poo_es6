@@ -3,14 +3,18 @@
   "version": "1.0.0",
   "description": "Esto es un repaso de lo visto en clases",
   "main": "index.js",
-  "type": "module",
   "scripts": {
-    "scss": "sass --watch src/scss/main.scss:src/css/style.css"
+    "scss": "sass --watch src/scss/main.scss:src/css/style.css",
+    "build": "webpack"
   },
   "keywords": [],
   "author": "Gonzalo Fleming",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.26.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
   }
 }
